@@ -50,6 +50,11 @@ public class ClickElementImp extends ClickHelper {
         clickIfPresent(element, seconds);
     }
 
+    @Step("<element> elementi gorununerse klik et")
+    public void gorunerseKlikEtDefault(String element) {
+        clickIfPresent(element, 5);
+    }
+
     @Step("<text> metnli elemente klik et")
     public void metneGoreKlik(String text) {
         clickByVisibleText(text);
