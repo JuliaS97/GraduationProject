@@ -1,0 +1,7 @@
+{
+  "fullName": "Test Bad IBAN",
+  "iban": "INVALID_IBAN_123",
+  "currency": "AZN",
+  "nickname": "TestNick",
+  "bankCode": "NABZAZ2X"
+}

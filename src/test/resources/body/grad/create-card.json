@@ -1,0 +1,5 @@
+{
+  "cardType": "${cardType}",
+  "currency": "${currency}",
+  "label": "${label}"
+}

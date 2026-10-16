@@ -1,0 +1,3 @@
+{
+  "Qonaq Secici": { "locatorType": "CSS", "locatorValue": "[data-testid='occupancy-popup'], [data-testid='searchbox-people-options-popup'], [class*='xp__guests__popup'], [class*='bui-popover__inner']" }
+}

@@ -1,0 +1,4 @@
+{
+  "Tarix Secici": { "locatorType": "CSS", "locatorValue": "[data-testid='calendar'], [data-testid='searchbox-datepicker-calendar'], [class*='bui-calendar'], [class*='DatePicker'], [data-testid='date-display-field-start'], [class*='calendar__wrapper']" },
+  "Tarix Secici Bagla": { "locatorType": "CSS", "locatorValue": "[data-testid='date-display-field-end'], [aria-label*='Close'], [data-testid='searchbox-dates-done']" }
+}

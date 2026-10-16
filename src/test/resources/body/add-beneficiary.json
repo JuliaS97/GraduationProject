@@ -1,0 +1,5 @@
+{
+  "accountNumber": "${accountNumber}",
+  "nickname": "${nickname}",
+  "bankCode": "${bankCode}"
+}

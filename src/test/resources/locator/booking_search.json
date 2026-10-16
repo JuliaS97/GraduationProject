@@ -1,0 +1,11 @@
+{
+  "Axtarish Formunu Yükle": { "locatorType": "CSS", "locatorValue": "[name='ss'], #searchbox-horizontal-destination-input, [data-testid='destination-container'] input, [data-testid='searchbox-destination-input'] input, [data-testid='searchbox-tabs-home-tab-groups'], input[placeholder*='Where'], input[autocomplete='off'][type='search']" },
+  "Mekan Sahesi": { "locatorType": "CSS", "locatorValue": "[name='ss'], #searchbox-horizontal-destination-input, [data-testid='destination-container'] input, [data-testid='searchbox-destination-input'] input, input[placeholder*='Where']" },
+  "Avtotamamlama Dropdown": { "locatorType": "CSS", "locatorValue": "[data-testid='autocomplete-results-container'], [data-testid='autocomplete-results'], ul[role='listbox'], [data-testid='destination-container'] ul, ul[aria-label*='search'], ul[class*='autocomplete'], [role='listbox']" },
+  "Baki Netice": { "locatorType": "XPATH", "locatorValue": "//li[.//*[contains(text(),'Баку') or contains(text(),'Bakı') or contains(text(),'Baku')]] | //*[@role='option'][.//*[contains(text(),'Baku') or contains(text(),'Bakı')]]" },
+  "Axtar Duymesi": { "locatorType": "CSS", "locatorValue": "button[data-testid='searchbox-submit-button'], [data-testid='searchbox-submit-button']" },
+  "Netice Sehifesi Otel Karti": { "locatorType": "CSS", "locatorValue": "[data-testid='property-card']" },
+  "Validasiya Xeta Mesaji": { "locatorType": "XPATH", "locatorValue": "//*[@data-testid='searchbox-error-message' or @data-testid='missing-required-field' or contains(@class,'error_message') or @aria-live='assertive' or @role='alert'] | //input[@aria-invalid='true']" },
+  "Mekan Sahesi Xeta": { "locatorType": "CSS", "locatorValue": "[name='ss'][aria-invalid='true'], [data-testid='destination-container'] input[aria-invalid='true'], [data-testid='destination-container'] [class*='error'], [data-testid='destination-container'] [class*='invalid']" },
+  "Sifir Netice Mesaji": { "locatorType": "CSS", "locatorValue": "[data-testid='no-results'], [data-testid='searchresults_property_cards'] h1, h1, [class*='no-results'], [data-testid='property-card-no-results']" }
+}

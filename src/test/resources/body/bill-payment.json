@@ -1,0 +1,7 @@
+{
+  "billerId": "${billerId}",
+  "subscriberNumber": "${subscriberNumber}",
+  "amount": ${amount},
+  "currency": "${currency}",
+  "sourceCardId": "${sourceCardId}"
+}

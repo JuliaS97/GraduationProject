@@ -1,0 +1,3 @@
+{
+  "Giris Formu": { "locatorType": "CSS", "locatorValue": "[data-testid='signin-email-input'], [data-testid='email-input'], [autocomplete='username'], [autocomplete='email'], [name='username'], [name='email'], [type='email'], #username, #email, input[type='text']" }
+}

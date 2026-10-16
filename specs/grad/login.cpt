@@ -1,0 +1,17 @@
+# GRAD API-ya login ol və tokeni yadda saxla
+* Yeni API sorğusu hazırla
+* API base URL "https://api.anarabbas.com" olsun
+* Endpoint "/auth/login" olsun
+* Header elave et "Content-Type" = "application/json"
+* Body olaraq "grad/login.json" faylını elave et
+* "POST" sorğusu gönder
+* Login cavabından accesTokeni yadda saxla "response"
+
+# GRAD API-ya user2 kimi login ol və tokeni yadda saxla
+* Yeni API sorğusu hazırla
+* API base URL "https://api.anarabbas.com" olsun
+* Endpoint "/auth/login" olsun
+* Header elave et "Content-Type" = "application/json"
+* Body olaraq "grad/login-user2.json" faylını elave et
+* "POST" sorğusu gönder
+* Login cavabından accesTokeni yadda saxla "response"
